@@ -6,5 +6,5 @@
 
 ## Features
 - Add, Subtract, Multiply and Divide
-- Memory functions
+- Memory function's
 - Clear
